@@ -1,7 +1,18 @@
-## wdio-porygon
+# wdjs-porygon
 
-wdio starter project - will update what this includes when it’s added
+This is a basic experiment with WebdriverIO and right now it only has pageobjects
 
-at the moment:
+I'll be adding things on to this project in the future for my own convinience and explaining how they work so feel free to grab a copy for yourself.
 
- - classes
+## todo
+rocha
+
+stryker
+
+actually use the visual regression tool
+
+hook up reporter
+
+create scripts in package to override wdio conf test from command line (good for ci)
+
+label functions?
